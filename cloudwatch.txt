@@ -1,0 +1,14 @@
+HTTPS CLI
+
+https://github.com/trivento/simple-cognito-demo.git
+
+
+id 
+ us-east-2_9oDiBubzS
+Pool ARN arn:aws:cognito-idp:us-east-2:495745966393:userpool/us-east-2_9oDiBubzS
+
+
+app clientid:
+27qfndrhrb245r77h4p659h9hn
+secret:
+a93rnl2bkr223cu9molic5ja8qnii18bf07dcvo20os7mo9nki9
